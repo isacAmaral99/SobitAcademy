@@ -1,0 +1,186 @@
+{
+    "categorias": [{
+            "titulo": "Integraçao Contabil",
+            "link": "https://www.alura.com.br/formacao-front-end",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Conheça a Sobit",
+                "url": "https://sobit.com.br"
+            },
+            "videos": [{
+                    "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+                    "url": "https://www.youtube.com/embed/AHD4sDG3qHU"
+                },
+                {
+                    "titulo": "Importação de arquivo EXCEL",
+                    "url": "https://youtu.be/yNj7RfMFTxU"
+                },
+                {
+                    "titulo": "SOBIT - Importação da planilha com lançamentos contábeis",
+                    "url": "https://youtu.be/0KkaYZ30MuA?list=PL6uhRFaiuHSwJGhxr-J74jbHrV15J1LFM"
+                },
+                {
+                    "titulo": "SOBIT - Importação da planilha e parametrização do De-Para sem referenciar o banco",
+                    "url": "https://youtu.be/pyKlGxNQZ0A?list=PL6uhRFaiuHSwJGhxr-J74jbHrV15J1LFM"
+                },
+                {
+                    "titulo": "SOBIT - Importação da planilha e parametrização do De-Para OFFLINE",
+                    "url": "https://youtu.be/NQZKs29bdFs?list=PL6uhRFaiuHSwJGhxr-J74jbHrV15J1LFM"
+                },
+                {
+                    "titulo": "SOBIT - Baixa de parcelas no fiscal junto ao lançamento contábil.",
+                    "url": "https://youtu.be/b2FZITY8gXM?list=PL6uhRFaiuHSwJGhxr-J74jbHrV15J1LFM"
+                },
+                {
+                    "titulo": "SOBIT - Importação de extrato bancário em PDF",
+                    "url": "https://youtu.be/tCGY-pYCl64"
+                },
+                {
+                    "titulo": "WEBINAR COMPLETO - Realizando 5 mil lançamentos contábeis",
+                    "url": "https://youtu.be/oJ3Rz-SAMzk"
+                }
+            ]
+        },
+        {
+            "titulo": "Integraçao Fiscal",
+            "cor": "#00C86F",
+            "link_extra": {
+                "text": "Sobit",
+                "url": "https://integrou.com.br/MyGeraArq_prd/AutoCadastro/AutoCliente.aspx"
+            },
+            "videos": [{
+                    "titulo": "Visão Geral - Módulo Fiscal",
+                    "url": "https://youtu.be/2vQZvOAyqPo"
+                },
+                {
+                    "titulo": "Cadastro Certificado A1",
+                    "url": "https://youtu.be/n1hNacZiUM8"
+                },
+                {
+                    "titulo": "Automatização Contábil 2 - Busca e baixa automática de XMLs",
+                    "url": "https://youtu.be/LUewh3fFraM"
+                },
+                {
+                    "titulo": "SOBIT - Baixar os XML's para importar em seu sistema contábil.",
+                    "url": "https://youtu.be/AHD4sDG3qHU"
+                },
+                {
+                    "titulo": "Usando Git Direito",
+                    "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+                }
+            ]
+        },
+        {
+            "titulo": "Provas Sociais",
+            "cor": "#19CB13",
+            "link_extra": {
+                "text": "Sobit",
+                "url": "https://integrou.com.br/MyGeraArq_prd/AutoCadastro/AutoCliente.aspx"
+            },
+            "videos": [{
+                    "titulo": "Cliente falando por nós, top!!!",
+                    "url": "https://youtu.be/qVSGrgZYGEg"
+                },
+                {
+                    "titulo": "Sinceridade na hora do feedback é tudo, muito bom!",
+                    "url": "https://youtu.be/goBJwWxTDas"
+                },
+                {
+                    "titulo": "De Office-boy a sócio,",
+                    "url": "https://youtu.be/6uP1m4Or8_E"
+                },
+                {
+                    "titulo": "Live Sobit",
+                    "url": "https://youtu.be/ZsWFdPFNgB8"
+                },
+                {
+                    "titulo": "Tradiçao Sobit",
+                    "url": "https://youtu.be/JwaUVHLYujM"
+                }
+            ]
+        },
+        {
+            "titulo": "Dicas",
+            "cor": "orange",
+            "link_extra": {
+                "text": "Conheça nosso Blog",
+                "url": "https://sobit.com.br/blog.html"
+            },
+            "videos": [{
+                    "titulo": "SOBIT - Cadastro de histórico padrão",
+                    "url": "https://youtu.be/UR-Ow_6tRHg"
+                },
+                {
+                    "titulo": "Primeiros passos - Cadastro de empresa e histórico",
+                    "url": "https://youtu.be/IgHGIvLzTTo"
+                },
+                {
+                    "titulo": "SOBIT - Cadastro de evento de provento e desconto ",
+                    "url": "https://youtu.be/IM-MOrBhISg"
+                },
+                {
+                    "titulo": "SOBIT - Cadastro de usuário",
+                    "url": "https://youtu.be/w3q9YYH6Ry4"
+                },
+                {
+                    "titulo": "SOBIT - Cadastro de empresas",
+                    "url": "https://youtu.be/tHDQJ1bkOwU"
+                }
+            ]
+        },
+        {
+            "titulo": "Novidades",
+            "cor": "blue",
+            "link_extra": {
+                "text": "Sobit",
+                "url": "https://integrou.com.br/MyGeraArq_prd/AutoCadastro/AutoCliente.aspx"
+            },
+            "videos": [{
+                    "titulo": "Novidades da semana - 17 de jul. de 2020",
+                    "url": "https://youtu.be/Tib7w8yo6h4"
+                },
+                {
+                    "titulo": "Novidades da semana - Busca automática de extrato do cartão de crédito.",
+                    "url": "https://youtu.be/H4fHTK0cKYc"
+                },
+                {
+                    "titulo": "Novidades da semana - 28 de abr. de 2020",
+                    "url": "https://youtu.be/wOVytz-oUcw"
+                },
+                {
+                    "titulo": "Novidades da Versão",
+                    "url": "https://youtu.be/I5tN4YOjq2I"
+                }
+            ]
+        },
+        {
+            "titulo": "Outros",
+            "cor": "#19CB13",
+            "link_extra": {
+                "text": "Curso sobre aprendizado na Alura",
+                "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+            },
+            "videos": [{
+                    "titulo": "Live da Integraçao",
+                    "url": "https://youtu.be/tk_HjDuKvyU"
+                },
+                {
+                    "titulo": "Tarefas de 3 dias, realizadas em 10 minutos, isso é fazer mais com menos!!!",
+                    "url": "https://youtu.be/CxzC-wRGFTw"
+                },
+                {
+                    "titulo": "120 mil lançamentos na contabilidade em 1 dia!!!",
+                    "url": "https://youtu.be/yVIgZymWOCw"
+                },
+                {
+                    "titulo": "Introdução a Automação, Integração e Robotização Contábil",
+                    "url": "https://youtu.be/sXce5Yq18xs"
+                },
+                {
+                    "titulo": "Emitir nota de servico pela SOBIT",
+                    "url": "https://youtu.be/hpThXy05Y9I"
+                }
+            ]
+        }
+    ]
+}

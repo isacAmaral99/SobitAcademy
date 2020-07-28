@@ -10,7 +10,7 @@ function Menu(){
     return(
        <nav className="Menu">
            {/* {se nao mudar o href para to ele nao vai para a pagina } */}
-           <Link to="/">
+           <Link to="#">
 
             <img  className="Logo" src={Logo} alt="Sobit logo" />
 
